@@ -1,2 +1,2 @@
-nginx:stable-perl 
+nginx:stable-perl
 
